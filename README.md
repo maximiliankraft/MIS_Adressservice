@@ -1,4 +1,6 @@
-# Angular Material
+# Angular Adressformular
+
+## Angular Material
 
 Um nicht selbst ein Formular von Grund auf bauen und stylen zu müssen eignet sich *Angular Material*. Zum einen gibt es dort vorgefertigte Komponenten welche schön aussehen. Zudem gibt es auch sogenannte *Schematics* welche Vorlagen für ganze Komponenten sind. *Angular Material* bietet dafür die Schematics Table und AddressForm an. 
 
